@@ -45,7 +45,7 @@ class _HomeState extends State<Home> {
                 Icons.production_quantity_limits_sharp,
                 color: Colors.green,
               ),
-              label: 'المنتجات',
+              label: 'فئات المنتجات',
             ),
             BottomNavigationBarItem(
                 icon: Icon(
